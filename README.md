@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hindy Hong</h1>
 <h3 align="center">A passionate Data Scientist/Analyst/Engineer</h3>
+<img align="right" alt = Coding" width="400" src="https://tenor.com/zh-CN/view/coding-girl-gif-2332171326726785246">
 
 - 🌱 I’m currently learning **Computer Vision, React, AWS cloud**
 
