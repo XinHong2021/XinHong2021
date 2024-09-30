@@ -4,11 +4,9 @@
 
 - 🌱 I’m currently learning **Computer Vision, React, AWS cloud**
 
-- 👯 I’m looking to collaborate on **A research project about investigating whether LLM understand ambiguous emotions**
+- 👯 I’m collaborating on **A research project about investigating whether LLM understand ambiguous emotions**
 
 - 👨‍💻 All of my projects are available at [https://xinhong2021.github.io/Portfolio_develop/](https://xinhong2021.github.io/Portfolio_develop/)
-
-- 💬 Ask me about **Machine learning, Large Language Models**
 
 - 📫 How to reach me **hindyhong327@gmail.com**
 
